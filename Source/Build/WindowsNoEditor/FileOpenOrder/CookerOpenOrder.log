@@ -1,0 +1,863 @@
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 0
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/DefaultMediaPlaneMaterial.uasset" 1
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/DefaultMediaPlaneTexture.uasset" 2
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 3
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 4
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 5
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 6
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/glass.uasset" 7
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/wall.uasset" 8
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Meshes/ConRoom_Cylinder.uasset" 9
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/ConRoom_Cylinder.uasset" 10
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Meshes/ConRoom_Cylinder_001.uasset" 11
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/ConRoom_Cylinder_001.uasset" 12
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 13
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LightingSystem.uasset" 14
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/StationGameInstance.uasset" 15
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 17
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 18
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 19
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 20
+"../../../Engine/Content/BasicShapes/Cube.uasset" 21
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 22
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 23
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/StationLights.uasset" 24
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/SpotLight.uasset" 25
+"../../../Engine/Content/BasicShapes/Plane.uasset" 26
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Viewport.uasset" 27
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Lever/Lever.uasset" 28
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Lever/Lever_Cylinder.uasset" 29
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Lever/Lever_Cylinder_002.uasset" 30
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Lever/NewBlueprint.uasset" 31
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 32
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPerson/Meshes/BaseMaterial.uasset" 33
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPerson/Meshes/CubeMaterialOverride.uasset" 34
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 35
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 36
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/FirstPersonOverview.uasset" 37
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPerson/Textures/FirstPersonCrosshair.uasset" 38
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 39
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/Geometry/Meshes/CubeMaterial.uasset" 40
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/Geometry/Meshes/1M_Cube.uasset" 41
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/Geometry/Meshes/1M_Cube_Chamfer.uasset" 42
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/Geometry/Meshes/TemplateFloor.uasset" 43
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/ComputerCoreGameMode.uasset" 44
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset02.uasset" 45
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Base.uasset" 46
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 48
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 49
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Particle.uasset" 50
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/ParticleSystem.uasset" 51
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/BP_DataBank.uasset" 52
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 53
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/DB_Manager.uasset" 54
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/BP_CompPlayer.uasset" 55
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/BP_Player.uasset" 56
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Material.uasset" 57
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/DataBank.uasset" 58
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/DataBank1.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 61
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Material/MF_Convolve.uasset" 62
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Material/MF_ExtractDepth.uasset" 63
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Material/MF_Sample.uasset" 64
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Material/PP_Outliner.uasset" 65
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/Material/PP_Outliner_Inst.uasset" 66
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Basic_Wall.uasset" 67
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Pillar_50x500.uasset" 68
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_400x300.uasset" 69
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_400x400.uasset" 70
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_500x500.uasset" 71
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_Door_400x400.uasset" 72
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_Window_400x400.uasset" 73
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Collapse01.uasset" 74
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Collapse02.uasset" 75
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Explosion01.uasset" 76
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Explosion02.uasset" 77
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Light01.uasset" 78
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Light01_Cue.uasset" 79
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Light02.uasset" 80
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Light02_Cue.uasset" 81
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Explosion_Cue.uasset" 82
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Burst_M.uasset" 83
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_Burst.uasset" 84
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Explosion_SubUV.uasset" 85
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 86
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/m_flare_01.uasset" 87
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 88
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_radial_ramp.uasset" 89
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Smoke_SubUV.uasset" 90
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 91
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 92
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/P_Explosion.uasset" 93
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 94
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 95
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 96
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Bush_D.uasset" 97
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Bush_N.uasset" 98
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Bush.uasset" 99
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Bush.uasset" 100
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Chair_M.uasset" 101
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Chair_N.uasset" 102
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Chair.uasset" 103
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Couch.uasset" 104
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Glass.uasset" 105
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Door_M.uasset" 106
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Door_N.uasset" 107
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Door.uasset" 108
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Door.uasset" 109
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_MaterialSphere.uasset" 110
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 111
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 112
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 113
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Detail_Rocky_N.uasset" 114
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Basalt_D.uasset" 115
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_RockMesh_M.uasset" 116
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_RockMesh_N.uasset" 117
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Rock.uasset" 118
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Rock.uasset" 119
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Shelf_M.uasset" 120
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Shelf_N.uasset" 121
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Shelf.uasset" 122
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Shelf.uasset" 123
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Basic_Floor.uasset" 124
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Stairs.uasset" 125
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Cone.uasset" 126
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Cylinder.uasset" 127
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 128
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Pipe.uasset" 129
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Pipe_180.uasset" 130
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Pipe_90.uasset" 131
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Plane.uasset" 132
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Torus.uasset" 133
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Trim.uasset" 134
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Trim_90_In.uasset" 135
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 136
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_TriPyramid.uasset" 137
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Tube.uasset" 138
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Wedge_A.uasset" 139
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Wedge_B.uasset" 140
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_WideCapsule.uasset" 141
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/ElevatorPanel.uasset" 142
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Accent.uasset" 143
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Base.uasset" 144
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Black.uasset" 145
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Glass.uasset" 146
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Light.uasset" 147
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Panel.uasset" 148
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/elevatorText.uasset" 149
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/PanelMenu.uasset" 150
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Accent.uasset" 151
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Black.uasset" 152
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Glass.uasset" 153
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Light.uasset" 154
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Panel.uasset" 155
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Elevator_Cylinder.uasset" 156
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Elevator_Cylinder_001.uasset" 157
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator/Elevator.uasset" 158
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/PipeMaterial.uasset" 159
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/S_Pipe_Spline.uasset" 160
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_BendyPipe.uasset" 161
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_BendyPipe.uasset" 162
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 163
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Button.uasset" 164
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/BrokenPipeMaterial.uasset" 165
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BrokenPickUp.uasset" 166
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/Pickup.uasset" 167
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_Player.uasset" 168
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_Button.uasset" 169
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_Button.uasset" 170
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/Body.uasset" 171
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/mushSpots.uasset" 172
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/Cap.uasset" 173
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/mushroom_Cylinder.uasset" 174
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_Mushroom.uasset" 175
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_Mushroom.uasset" 176
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/WhiteMaterial.uasset" 177
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/OxygenTank.uasset" 178
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_OxygenTank.uasset" 179
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_OxygenTank.uasset" 180
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_PipePessurePlate.uasset" 181
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_PipePessurePlate.uasset" 182
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_StationLights.uasset" 183
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_StationLights.uasset" 184
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/SmokeMaterial.uasset" 185
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/RedSmokeSystem.uasset" 186
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/Material.uasset" 187
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/vent_Cube.uasset" 188
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/BP_Vent.uasset" 189
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BP_Vent.uasset" 190
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/BrokenPickUp.uasset" 191
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Pickup.uasset" 192
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/PlantBoxMat.uasset" 193
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/PlantPot.uasset" 194
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/ThePlantPot.uasset" 195
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/ThePlantPot.uasset" 196
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/glass.uasset" 197
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/mushroom_Cylinder_001.uasset" 198
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Meshes/vent_Cube_001.uasset" 199
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/NewMaterial.uasset" 200
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/NewParticleSystem.uasset" 201
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/crysMat3.uasset" 202
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/crysMat2.uasset" 203
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/crystal.uasset" 204
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/CrystalActor.uasset" 205
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/crystalParticleMat.uasset" 206
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/Screen.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 208
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 210
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/DeltaGenBase.uasset" 211
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 212
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 213
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 214
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 215
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VREDBase.uasset" 216
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 217
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 218
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VREDUVEdit.uasset" 219
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 221
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 223
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 226
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 227
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 228
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 233
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 234
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 240
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/Glass.uasset" 241
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 242
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 243
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 244
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 245
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 246
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 247
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/MF_DIssolve.uasset" 248
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Hologram/HoloTexture.uasset" 249
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Hologram/RedGlow.uasset" 250
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/TargetRings/Rings_InnerRing.uasset" 251
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/TargetRings/Rings_MIddleRing.uasset" 252
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/TargetRings/Rings_OuterRing.uasset" 253
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Rings.uasset" 254
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable.uasset" 255
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset" 256
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/assets/wheel.uasset" 257
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/dialouge_systems/Dialouge_Interface.uasset" 258
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 259
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 260
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 261
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/dialouge_systems/dialouge_widget.uasset" 262
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/dialouge_systems/sign.uasset" 263
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 264
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_Fire.uasset" 265
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 266
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 267
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 268
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 269
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 270
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 271
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 272
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 273
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 274
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 275
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 276
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 277
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 278
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 279
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 280
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 281
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 282
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 283
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 284
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 285
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 286
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Meshes/BaseMaterial.uasset" 287
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Meshes/CubeMaterialOverride.uasset" 288
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Textures/FirstPersonCrosshair.uasset" 289
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/FirstPersonOverview.uasset" 290
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/wheel.uasset" 291
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/screen_widget.uasset" 292
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/computer.uasset" 293
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 294
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 295
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 296
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Geometry/Meshes/CubeMaterial.uasset" 297
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Geometry/Meshes/1M_Cube.uasset" 298
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Geometry/Meshes/1M_Cube_Chamfer.uasset" 299
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Geometry/Meshes/TemplateFloor.uasset" 300
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Hologram/BlueGlow.uasset" 301
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Hologram/OrangeGlow.uasset" 302
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Hologram/stationHologram.uasset" 303
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Hologram/HoloMSD.uasset" 304
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 305
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 306
+"../../../Engine/Content/BasicShapes/Cone.uasset" 307
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 308
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 309
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 310
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 311
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 312
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 313
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 314
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 315
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 316
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 317
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 318
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 319
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 320
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 321
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 322
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 323
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 324
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 325
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 326
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 327
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 328
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 329
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 330
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 331
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 332
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 333
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 334
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 335
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 336
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 337
+"../../../Engine/Content/EditorResources/S_Note.uasset" 338
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 339
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 340
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 341
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 342
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 343
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 344
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 345
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 346
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 347
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 348
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 349
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 350
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 351
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 352
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 353
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 354
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 355
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 356
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 357
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 358
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 359
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 360
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 361
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 362
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 363
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 364
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 365
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 366
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 367
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 368
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 369
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 370
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 374
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 375
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 377
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 378
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 379
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 380
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 381
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 382
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 383
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 384
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 385
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 387
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 388
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 389
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 390
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 391
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 392
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 393
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 394
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 395
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 396
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 397
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 398
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 399
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 400
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 401
+"../../../Engine/Content/EngineResources/Black.uasset" 402
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 403
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 404
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 405
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 406
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 407
+"../../../Engine/Content/EngineSounds/Master.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 409
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 410
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 411
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 412
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 413
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 414
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 415
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 416
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 417
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 418
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 419
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 431
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 432
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 433
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 434
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 435
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 436
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 437
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 438
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 439
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 440
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 441
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 442
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 443
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 444
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 445
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 446
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 447
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 448
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 449
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 450
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 452
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 453
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 454
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 455
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 456
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 457
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 458
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 459
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 460
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 461
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 462
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 463
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 464
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 465
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 466
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 467
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 468
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 469
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 470
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 471
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 472
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 473
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 474
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 475
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 476
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 477
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 478
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 479
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 480
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 481
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 482
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 483
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 484
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 485
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 486
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 487
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 488
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 489
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 490
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 491
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 492
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 493
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 494
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 495
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 496
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 497
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 498
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 499
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 500
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 501
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 502
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 503
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 504
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 505
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 506
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GoodSky/Blueprint/BP_GoodSky.uasset" 507
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Guy.uasset" 508
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/GameMode_Test.uasset" 509
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/BlastDoor.uasset" 510
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Button_Door.uasset" 511
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Button_End.uasset" 512
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Button_System.uasset" 513
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/base.uasset" 514
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/Glow.uasset" 515
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Meshes/CenterConsole.uasset" 516
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/CommandConsole.uasset" 517
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Console/Button.uasset" 518
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Console/Plastic.uasset" 519
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Console/screenTexture.uasset" 520
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Console/Screen.uasset" 521
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Console/console.uasset" 522
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Console.uasset" 523
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/HoloTexture.uasset" 524
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/BlueGlow.uasset" 525
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/OrangeGlow.uasset" 526
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/RedGlow.uasset" 527
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Meshes/stationHologram.uasset" 528
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/HoloMSD.uasset" 529
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/StationMainLight.uasset" 530
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/BridgeWindow.uasset" 531
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/Engine.uasset" 532
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/Hull.uasset" 533
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/Hull2.uasset" 534
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/Ship.uasset" 535
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/ThrusterFire.uasset" 536
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/thrusterParticles.uasset" 537
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/Ship/BP_Ship.uasset" 538
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/elevatorText.uasset" 539
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/PanelMenu.uasset" 540
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator_Cylinder.uasset" 541
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator_Cylinder_001.uasset" 542
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Elevator/Elevator.uasset" 543
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/CommandCenter_BuiltData.uasset" 544
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/SetPieces/Materials/glass_clear.uasset" 545
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/UI/Widgets/HUD.uasset" 546
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommandCenter/CommandCenter.umap" 547
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 548
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 549
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 550
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 551
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 552
+"../../../Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset" 553
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 554
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 555
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 556
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 557
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 558
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Blueprints/CommsPuzzle.uasset" 559
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 560
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 561
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Maps/AntennaArray_BuiltData.uasset" 562
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 563
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 564
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 565
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 566
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 567
+"../../../Engine/Content/Engine_MI_Shaders/T_Reflection.uasset" 568
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleTranslucent.uasset" 569
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 570
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Blueprints/SpaceJam3.uasset" 571
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Blueprints/BG.uasset" 572
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/CommArray/FirstPersonBP/Maps/AntennaArray.umap" 573
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/BP_PurgeCountText.uasset" 574
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/ComputerCore_BuiltData.uasset" 575
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/ComputerCore.umap" 576
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 577
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 578
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 579
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 580
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 581
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 582
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 583
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 584
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/Skybox.uasset" 585
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 586
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 587
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/BP_LightStudio.uasset" 588
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 589
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_AssetPlatform.uasset" 590
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 591
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 592
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 593
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 594
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 595
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 596
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 597
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/SM_AssetPlatform.uasset" 598
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Maps/Advanced_Lighting.umap" 599
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 600
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 601
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 602
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 603
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 604
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 605
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 606
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 607
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 608
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 609
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_MacroVariation.uasset" 610
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 611
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 612
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Gold_N.uasset" 613
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 614
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Copper_D.uasset" 615
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Copper.uasset" 616
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Statue_M.uasset" 617
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Statue_N.uasset" 618
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_StatueGlass.uasset" 619
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Floor_400x400.uasset" 620
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Starter_Birds01.uasset" 621
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Starter_Wind05.uasset" 622
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Starter_Wind06.uasset" 623
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Starter_Background_Cue.uasset" 624
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Chair.uasset" 625
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Statue.uasset" 626
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Statue.uasset" 627
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_TableRound_M.uasset" 628
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_TableRound_N.uasset" 629
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_TableRound.uasset" 630
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_TableRound.uasset" 631
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Maps/Minimal_Default.umap" 632
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Fire01.uasset" 633
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Fire01_Cue.uasset" 634
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Fire_SubUV.uasset" 635
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Fire_Tiled_D.uasset" 636
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 637
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Water_N.uasset" 638
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 639
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 640
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/P_Fire.uasset" 641
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 642
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Smoke01.uasset" 643
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Smoke01_Cue.uasset" 644
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/P_Smoke.uasset" 645
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 646
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Fire_Sparks01.uasset" 647
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 648
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Spark_Core.uasset" 649
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_Spark.uasset" 650
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/P_Sparks.uasset" 651
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 652
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Steam01.uasset" 653
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Steam01_Cue.uasset" 654
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/P_Steam_Lit.uasset" 655
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 656
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Lamp_M.uasset" 657
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Lamp_N.uasset" 658
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Lamp.uasset" 659
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Lamp_Ceiling.uasset" 660
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 661
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_Lamp_Wall.uasset" 662
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 663
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Maps/StarterMap_BuiltData.uasset" 664
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 665
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 666
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 667
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 668
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 669
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 670
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 671
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 672
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 673
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Brick_Clay_New.uasset" 674
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 675
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 676
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Perlin_Noise_M.uasset" 677
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Brick_Clay_Old.uasset" 678
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 679
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 680
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 681
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 682
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 683
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 684
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 685
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 686
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 687
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 688
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 689
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 690
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 691
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 692
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 693
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 694
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 695
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Gradinet_01.uasset" 696
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 697
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_CobbleStone_Rough.uasset" 698
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 699
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 700
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 701
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 702
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Grime_D.uasset" 703
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Rust_N.uasset" 704
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Concrete_Grime.uasset" 705
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Panels_D.uasset" 706
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Panels_N.uasset" 707
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Concrete_Panels.uasset" 708
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Poured_D.uasset" 709
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Poured_N.uasset" 710
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Concrete_Poured.uasset" 711
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 712
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 713
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 714
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 715
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Concrete_Tiles.uasset" 716
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ground_Grass_D.uasset" 717
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ground_Grass_N.uasset" 718
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Ground_Grass.uasset" 719
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ground_Gravel_D.uasset" 720
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ground_Gravel_N.uasset" 721
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Ground_Gravel.uasset" 722
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_ground_Moss_D.uasset" 723
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Ground_Moss_N.uasset" 724
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Ground_Moss.uasset" 725
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Chrome.uasset" 726
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Gold_D.uasset" 727
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Gold.uasset" 728
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Rust_D.uasset" 729
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Rust.uasset" 730
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Steel_D.uasset" 731
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Metal_Steel_N.uasset" 732
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Metal_Steel.uasset" 733
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Basalt_N.uasset" 734
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Rock_Basalt.uasset" 735
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 736
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 737
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 738
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Rock_Sandstone.uasset" 739
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Slate_D.uasset" 740
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Rock_Slate_N.uasset" 741
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Rock_Slate.uasset" 742
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Checker_Noise_M.uasset" 743
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Single_Tile_N.uasset" 744
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Tech_Dot_M.uasset" 745
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Tech_Dot_N.uasset" 746
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 747
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 748
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 749
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 750
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 751
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Tech_Panel_M.uasset" 752
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Tech_Panel_N.uasset" 753
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Tech_Panel.uasset" 754
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Water_Lake.uasset" 755
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Water_M.uasset" 756
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Water_Ocean.uasset" 757
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 758
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 759
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 760
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 761
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 762
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 763
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Oak_D.uasset" 764
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Oak_N.uasset" 765
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Wood_Oak.uasset" 766
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Pine_D.uasset" 767
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Pine_N.uasset" 768
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Wood_Pine.uasset" 769
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Walnut_D.uasset" 770
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Wood_Walnut_N.uasset" 771
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Materials/M_Wood_Walnut.uasset" 772
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_400x200.uasset" 773
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_Door_400x300.uasset" 774
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Architecture/Wall_Window_400x300.uasset" 775
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Collapse_Cue.uasset" 776
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Starter_Music01.uasset" 777
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Audio/Starter_Music_Cue.uasset" 778
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Dust_Particle_D.uasset" 779
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 780
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Particles/P_Ambient_Dust.uasset" 781
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/MaterialSphere.uasset" 782
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Frame_M.uasset" 783
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Textures/T_Frame_N.uasset" 784
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/Materials/M_Frame.uasset" 785
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_CornerFrame.uasset" 786
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_DoorFrame.uasset" 787
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_GlassWindow.uasset" 788
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_PillarFrame.uasset" 789
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_PillarFrame300.uasset" 790
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Props/SM_WindowFrame.uasset" 791
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Cube.uasset" 792
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_QuadPyramid.uasset" 793
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Shapes/Shape_Sphere.uasset" 794
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/ComputerCore/StarterContent/Maps/StarterMap.umap" 795
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Actors/Button_LifeSupport.uasset" 796
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/LifeSupportGameMode.uasset" 797
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/LifeSupport_BuiltData.uasset" 798
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uasset" 799
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/Materials/SmokeSystem.uasset" 800
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/SpaceJam2.uasset" 801
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/SpaceJam2_Cue.uasset" 802
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/LifeSupport/LifeSupport.umap" 803
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainMenu/MainMenu_BuiltData.uasset" 804
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/UI/Widgets/MainMenu.uasset" 805
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainMenu/MainMenu.umap" 806
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/BlueButton.uasset" 807
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/GreenButton.uasset" 808
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/Plastic.uasset" 809
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/PurpleButton.uasset" 810
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/roseButton.uasset" 811
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/consoleCrystal_BigButton.uasset" 812
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/consoleCrystal_Button1.uasset" 813
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/consoleCrystal_Button2.uasset" 814
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/consoleCrystal_Button3.uasset" 815
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/consoleCrystal_Cube_003.uasset" 816
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/roseConsole/roseConsole/CrystalConsole.uasset" 817
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Door.uasset" 818
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Player.uasset" 819
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/crysMat.uasset" 820
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Crystal/powerCrystal.uasset" 821
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/MainPower_BuiltData.uasset" 822
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 823
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 824
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/Light.uasset" 825
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/MainPower/MainPower.umap" 826
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/ball.uasset" 827
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_Idle.uasset" 828
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 829
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 830
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 831
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_Run.uasset" 832
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 833
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 834
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 835
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 836
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 837
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 838
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 839
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 840
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 841
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 842
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 843
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 844
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 845
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 846
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 847
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 848
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 849
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 850
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/Gimbal.uasset" 851
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/target.uasset" 852
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/TargetRings/Target.uasset" 853
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Maps/AttitudeControl_BuiltData.uasset" 854
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 855
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 856
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 857
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/SpaceJam5.uasset" 858
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/SpaceJam5_Cue.uasset" 859
+"D:/Documents/Unreal Projects/StationRepair/Source/Content/Thrusters/FirstPersonBP/Maps/AttitudeControl.umap" 860
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 861
+"../../../Engine/Content/Maps/Entry.umap" 862
