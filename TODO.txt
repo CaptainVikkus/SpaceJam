@@ -1,2 +1,4 @@
 ISSUE			Name		Details
 dummy problem		jake		optional
+Add Music 		jake		just add a music track to command center
+Fix Hole				there is a hole in ComputerCore
